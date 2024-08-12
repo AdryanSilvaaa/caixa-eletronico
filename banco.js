@@ -17,7 +17,7 @@ var saldo = 100.5; //Variavel Global
 					ver_saldo();
 					break;
 				case 2:
-					extrato();
+					extratos();
 					break;
 				case 2:
 					fazer_deposito();
